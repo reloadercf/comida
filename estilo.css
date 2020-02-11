@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
+
+body{
+    background-image: url(./imagenes/fondo.jpg);
+}
+
+h1{
+    font-family: 'Sriracha', cursive;
+    color: #fff;
+    font-size: 4rem;
+}
+
+.fuente{
+    color: #fff;
+}
